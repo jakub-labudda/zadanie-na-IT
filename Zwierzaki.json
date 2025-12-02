@@ -1,0 +1,31 @@
+{
+"Moje zwierzeta": {
+"psiaki": [
+{
+        "imie": "Chiara",
+        "rasa": "Maltanczyk",
+        "wiek": 7,
+        "szczepiony": true
+      },
+{
+        "imie": "Molly",
+        "rasa": "West terrier",
+        "wiek": 4,
+        "szczepiony": true
+      },
+{
+        "imie": "Flair",
+        "rasa": "West terrier",
+        "wiek": 0,
+        "szczepiony": false
+      },
+{
+        "imie": "Neville",
+        "rasa": "Maltanczyk",
+        "wiek": 1,
+        "szczepiony": true
+      },
+],
+"kot": "czarek"
+}
+}
